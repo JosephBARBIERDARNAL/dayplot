@@ -1,3 +1,9 @@
+# 🚨 Important Notice
+
+> This repo has migrated [here](https://github.com/y-sunflower/dayplot)!
+
+<br><br><br>
+
 # dayplot
 
 <img src="https://github.com/JosephBARBIERDARNAL/static/blob/main/python-libs/dayplot/image.png?raw=true" alt="dayplot logo" align="right" width="150px"/>
